@@ -1,6 +1,6 @@
-public class programacaoiv {
-	public static void main(String[] args) {
-            String s = "Hello World!";
-               System.out.println(s);
-         }
-}
+public class helloworldprinter {
+      public static void main(String[] args) {
+          String helloWorld = "Hello World!";
+          System.out.println(helloWorld);
+      }
+  }
